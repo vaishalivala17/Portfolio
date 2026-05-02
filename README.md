@@ -76,7 +76,7 @@ npx serve .
 
 ## Education & Certifications
 
-- **Full Stack Development** — Red and White Skill Education *(Aspiring)*
+- **Full Stack Development** — Red and White Skill Education 
 - **CCC — Computer Concepts** — Maruti Multimedia Education
 - **12th Standard** — Suman High School No-9 (2023 – 2024)
 - **10th Standard** — Suman High School No-9 (2021 – 2022)
