@@ -4,10 +4,6 @@
 
 A modern, interactive developer portfolio built with vanilla HTML, CSS, and JavaScript — featuring a Three.js particle background, custom cursor, scroll animations, and a sleek dark theme.
 
-## Live Site
-
-**https://capable-biscuit-eda369.netlify.app/**
-
 ---
 
 ## About
